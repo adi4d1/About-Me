@@ -1,7 +1,7 @@
 # 👋 Hello, World!
 
 🌟 Welcome to my GitHub profile!  
-I’m a ušenik at **Electrical Engineering High School** ⚡, passionate about electronics, coding, and turning ideas into reality.  
+I’m a student at **Electrical Engineering High School** ⚡, passionate about electronics, coding, and turning ideas into reality.  
 
 ## 🚀 About Me
 - 🔧 Love tinkering with **embedded systems** and microcontrollers  
@@ -9,7 +9,7 @@ I’m a ušenik at **Electrical Engineering High School** ⚡, passionate about 
 - ⏱️ Built my own **stopwatch project** and more cool experiments  
 - 🌍 Open‑source enthusiast, always learning and sharing  
 
-## 🎯 Ciljevi
+## 🎯 Goals
 - 📚 Keep improving my skills in electronics & software  
 - 🤝 Collaborate with others on creative projects  
 - 🌐 Share knowledge and inspire new makers  
