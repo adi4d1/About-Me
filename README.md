@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Adi Šehić
 
 <p style="color:#0056b3; font-size:18px;">
 ⚡ Student at <b>Electrical Engineering High School</b>  
