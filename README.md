@@ -9,7 +9,7 @@ I’m a student at **Electrical Engineering High School** ⚡, passionate about 
 - ⏱️ Built my own **stopwatch project** and more cool experiments  
 - 🌍 Open‑source enthusiast, always learning and sharing  
 
-## 🎯 Goals
+## 🎯 Ciljevi
 - 📚 Keep improving my skills in electronics & software  
 - 🤝 Collaborate with others on creative projects  
 - 🌐 Share knowledge and inspire new makers  
