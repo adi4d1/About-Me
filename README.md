@@ -1,7 +1,7 @@
 # 👋 Hello, World!
 
 🌟 Welcome to my GitHub profile!  
-I’m a student at **Electrical Engineering High School** ⚡, passionate about electronics, coding, and turning ideas into reality.  
+I’m a ušenik at **Electrical Engineering High School** ⚡, passionate about electronics, coding, and turning ideas into reality.  
 
 ## 🚀 About Me
 - 🔧 Love tinkering with **embedded systems** and microcontrollers  
