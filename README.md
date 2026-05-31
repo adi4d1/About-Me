@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adi%20Šehić&fontSize=60&fontColor=00f5d4&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Circuit%20Hacker&descColor=a78bfa&descAlignY=58&animation=twinkling"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&lines=⚡+Electrical+Engineering+Student;🔌+Embedded+Systems+%26+Microcontrollers;💻+Flowcode+%7C+Arduino+%7C+C+Programming;🛠️+Turning+Ideas+into+Circuits;🌍+Open-Source+Builder" alt="Typing SVG" />
 </a>
 
