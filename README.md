@@ -17,11 +17,7 @@
 
 ---
 
-## `whoami`
-
-```bash
-$ cat /etc/profile.d/adi.sh
-```
+## `Who Am I`
 
 ```json
 {
