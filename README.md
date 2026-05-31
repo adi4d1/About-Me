@@ -129,13 +129,6 @@ $ cat /etc/profile.d/adi.sh
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adi4d1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7"/>
-</div>
-
----
 
 ## 📡 Connect With Me
 
