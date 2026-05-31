@@ -109,10 +109,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi4d1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00f5d4&title_color=00f5d4&icon_color=a78bfa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi4d1&layout=compact&langs_count=8&theme=tokyonight&border_color=00f5d4&title_color=00f5d4"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adi4d1&theme=tokyonight&border=00f5d4&ring=a78bfa&fire=00f5d4&currStreakLabel=00f5d4" />
